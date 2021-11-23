@@ -1,0 +1,16 @@
+body
+{
+    text-align: center; color:#99;
+}
+p1, p3 {
+    text-align: 12px; color: #9966; font-size: 12px;
+}
+p2, p4 {
+    text-align: 12px; color: #0066;background: blue; font-size: 12px;
+}
+p5, p7 {
+    text-align: 14px; color: black; font-size: 12px;
+}
+p6, p8 {
+    text-align: 16px; color: pink; font-size: 12px;
+}

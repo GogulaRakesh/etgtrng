@@ -1,0 +1,52 @@
+<html>
+<head>
+    <script>
+        function User_Det() {
+            var name = document.getElementById("name").value;
+            var email = document.getElementById("email").value;
+            var dob = document.getElementById("dob").value;
+            var mbno = document.getElementById("mbno").value;
+            var course = document.getElementById("course").value;
+            
+
+            document.write("Name is : " + name);
+            document.write("<br><br>Email Address is : " + email);
+            document.write("<br><br>Date Of Birth Is : " + dob);
+            document.write("<br><br>Mobile Number is : " + mbno);
+
+            if (course == "B.TECH") {
+                document.write("<br><br>"+course + " : " + "Your stream is EEE");
+            } else if (course == "MCA") {
+                document.write("<br><br>" +course + " : " + "Your stream is Computerscience");
+            } else if (course == "B.Com") {
+                document.write("<br><br>" +course + " : " + "Your stream is Accounts");
+            } else if (course == "B.Sc") {
+                document.write("<br><br>" +course + " : " + "Your stream is Science");
+            }
+            
+        }
+    </script>
+</head>
+<body>
+    <form>
+        <label>Enter Your Name : </label>
+        <input type="text" id="name" /><br /><br />
+        <label>Enter Your empId : </label>
+        <input type="email" id="email" /><br /><br />
+        <label>Enter Your DOB : </label>
+        <input type="date" id="dob" /><br /><br />
+        <label>Enter Your Mobile No : </label>
+        <input type="text" id="mbno" /><br /><br />
+        <label>Enter Your Course : </label>
+        <select name="Course" id="course">
+            <option value=1 selected="true">SelectOne</option>
+            <option value="B.Tech">MCA</option>
+            <option value="MCA">B.Tech</option>
+            <option value="B.Com">B.Com</option>
+            <option value="B.Sc">B.Sc</option>
+        </select><br><br>
+
+        <input type="button" onclick="User_Det()" value="submit" />
+    </form>
+</body>
+</html>

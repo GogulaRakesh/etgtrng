@@ -1,0 +1,50 @@
+<html>
+<head>
+<title>information</title>
+<script type="text/javascript"> 
+function validate(){
+if( document.myForm.empolyername.value == "" ){ 
+alert( "Please provide your name!" ); 
+document.myForm.empolyername.focus() ;
+} 
+else if( document.myForm.idnumber.value == "" ){ 
+alert( "Please provide your name!" ); 
+document.myForm.idnumber.focus() ;
+return false; } }
+vara a=/^\d{10}s/;
+if(document.myForm.mobienumber.value.match(a))
+{
+   return true;
+}
+else
+
+</script> 
+</head>
+<body style="text-align:center">
+<form>
+Name :
+<input type="text" name="empolyername" value="">
+<br><br>
+EmpId :
+<input type="number" name="idnumber" value="Enter the id">
+<br><br>
+Date of brith :
+<input type="date" name="date" >
+<br><br>
+Mobie number :
+<input select="/d" name="mobienumber">
+<br><br>
+Address :
+<input type="text" name="address">
+<br><br>
+Course :
+<input type="text" name="course">
+<br><br>
+Stream :
+<input type="text" name="stream">
+<br><br>
+<tr>
+<td><button onclick="myFunction()">sudmit</button></td>
+</tr>
+</body>
+</html>

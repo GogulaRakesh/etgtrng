@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>mobie</title>
+<form action="" name="myForm" onsubmit="return(validate()):">
+<script>
+function val()
+{
+var a=/^\d{10}$/;
+if(document.myForm.mobienumber.value.match(a))
+{
+   return true;
+}
+else
+{
+ alert("please Enter correct number");
+  return false;
+}
+}
+</script>
+</head>
+<boby>
+Mobie number
+<input type="number" name="mobienumber">
+<button onclick="return (val());">sudmit</button>
+</body>
+</html>
+

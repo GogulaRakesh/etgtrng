@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>Form Validation</title>
+<script type="text/javascript"> 
+function validate(){
+if( document.myForm.Name.value == "" ){ 
+alert( "Please provide your name!" ); 
+document.myForm.Name.focus() ;
+return false; } }
+</script> 
+</head>
+<body text-align="center">
+<form action="" name="myForm" onsubmit="return(validate());">
+<table cellspacing="2" cellpadding="2" border="1">
+<tr>
+<td align="center">Name</td>
+<td><input type="text" name="Name" /></td>
+</tr>
+<tr>
+<td alig="center">address</td>
+<td><input type="text" name="address"></td>
+</tr>
+<br><br>
+<tr>
+<td><button onclick="myFuction()">sudmit</button></td>
+</tr>
+</table>
+</form>
+</body>
+</html>

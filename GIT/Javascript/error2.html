@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> event handler example</title>
+<body>
+<script type="text/javascript">
+function myFunc() {
+var a = 100;
+var b = 0;
+try{ if ( b == 0) { throw("Divide by zero error.");
+} else
+{  var c = a / b;
+document.write("Result of division is " +c);}
+} catch ( e ) { alert("Error: "+ e );}
+}
+</script>
+<p onclick="myFunc()"> click me </p>
+</body>
+</html>

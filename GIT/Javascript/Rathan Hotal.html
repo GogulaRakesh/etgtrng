@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title></title>
+<style >
+.sucess-message
+{
+font-size: 20px;
+background-color: red;
+color:darkgray;
+margin-left: 40%;
+display: none;
+
+}
+#bookingform
+{
+			
+background-color: grey;
+text-align: center;
+font-size: 30px;
+margin-left: 15%;		
+border-radius: 2%;
+border: 2px solid black;
+padding: 10px;
+height: 100%;
+width: 70%;
+}
+#data
+{
+margin-top: 2%;
+margin-bottom: 3%;
+margin-left: 40%;
+}/*
+#details
+{
+margin-top:5%;
+box-shadow: 0px 2px 5px 0px rgba(0,225,99,0.5);
+width: 50%;
+margin-left: 25%;
+background-color: #4da6ff;
+border: auto;
+border-radius:2%;
+}*/
+#sbtn
+{
+text-align: center;
+margin-top: 5%;
+font-size: 100%;
+margin-bottom: 5%;
+}
+#sbtn:hover
+{
+background-color: red;
+}
+#feedback
+{
+font-style: italic;
+font-size: 50px;
+text-align: center;
+}
+#userheading
+{
+font-size: 20px;
+text-align: center;
+}
+#details
+{
+font-size: 20px;
+}
+</style>
+</head>
+<body>
+<p id="userheading">Rathan hotel</p>
+<form id="bookingform">
+<p id="feedback">bookingform</p>
+<div id="details">
+<input type="hidden" name=""value="abc"id="user_data"class="udata">
+<p>FIRST NAME:</p>
+<INPUT TYPE="TEXT" VALUE="" SIZE="30"   ID="fn" >
+</BR>
+<p>LAST NAME</p>
+<INPUT TYPE="TEXT" VALUE="" SIZE="30"  ID="ln" >
+</BR><p>ADDRESS</p>
+<INPUT TYPE="TEXT" VALUE="" SIZE="30" ID="ad" >
+</BR>
+</BR>
+<p>PHONE NO</p>
+<INPUT TYPE="TEXT" VALUE="+91" SIZE="30" ID="phone" >
+</BR>
+<p>SELECT BED TYPE:</p>
+<select>
+<option ID="s" value="SINGLE">SINGLE With Ac</OPTION>
+<option ID="s" value="SINGLE">SINGLE Without Ac</OPTION>
+<option ID="s" value="SINGLE">DOUBLE With Ac</OPTION>
+<option ID="d" value="DOUBLE">DOUBLE Without Ac</OPTION>
+</select>
+<BR>
+<p>SELECT ACCOMMODATION:</p>
+<SELECT>
+<option ID="p" value="PREMIUM">PREMIUM</OPTION>
+<option ID="g" value="GENERAL">GENERAL</OPTION>
+</SELECT>
+<BR>
+<p>DATE OF BOOKING   :</p>
+<INPUT ID="db" TYPE="text" VALUE="" SIZE="30">
+<BR>
+<p>DATE OF LEAVING   :</p>
+<INPUT ID="dl" TYPE="text" VALUE="" SIZE="30">
+<BR>
+<div class="sucess-message">
+form submitted sucessfully
+</div>
+<button id="sbtn"type="submit">submit</button>
+</div>
+<a href="E:/etgtrng\GIT\rooms pics.html">Book Here</a>
+</form>
+<!--connect your form to index to contectpage.js-->
+</body>
+</html>

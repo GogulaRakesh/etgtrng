@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>information</title>
+</head>
+<body style="text-align:center">
+<form>
+Name :
+<input type="text" name="empolyer name" value="">
+<br><br>
+EmpId :
+<input type="number" name="id number" value="Enter the id">
+<br><br>
+Date of brith :
+<input type="date" name="date" >
+<br><br>
+Address :
+<input type="text" name="address">
+<br><br>
+Course :
+<input type="text" name="course">
+<br><br>
+Stream :
+<script>
+function jumpto(x)
+{
+if (document.form1.jumpmenu.value != "null") {
+if (document.form1.jumpmenu.value != "https://www.quackit.com") {
+alert('Good choice!');
+}
+document.location.href = x
+}
+}
+</script>
+<form name="form1">
+<select name="jumpmenu"onChange="jumpto(document.form1.jumpmenu.options[document.form1.jumpmenu.options.selectedIndex].value)">
+<option>Jump to...</option>
+<option value="https://www.quackit.com">Home</option>
+<option value="https://www.quackit.com/html/tutorial/">HTML Tutorial</option>
+<option value="https://www.quackit.com/database/tutorial/">Database Tutorial</option>
+<option value="https://www.quackit.com/mysql/tutorial/">MySQL Tutorial</option>
+</select>
+</form>
+</body>
+</html>

@@ -1,0 +1,123 @@
+<html>
+<head>
+<title>Task</title>
+</head>
+<style>
+        body{
+            background-image:url(hotel.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            //every one just change this image or put background-color: your color; 
+        }
+        form{
+            background-color:rgba(33, 34, 34, 0.788);
+            width:25%;
+             height: 70%;
+            margin-top: 30px;
+            border-radius: 20px;
+
+        }
+        h1{
+            color:yellow;
+
+        }
+        input{
+            border-radius:20px;
+            border-color:yellow;
+            text-align:center;
+            color:red;
+
+        }
+        table td{
+            font-family: 'Times New Roman', Times, serif;
+            font-size: large;
+            font-weight: bold;
+            color:rgba(14, 243, 64, 0.781); //everyone just change this colour//
+        }
+        table th{
+            color:aliceblue;
+        }
+        input:hover{
+            border-color:rgb(255, 255, 255);
+            border-radius:30px;
+            background-color:antiquewhite;
+        }
+        .button{
+           border-color: blue;
+           margin-top:10px;
+           border-width:2px;
+           font-size:x-large;
+           background-color:black;
+        }
+        .button:hover{
+            border-top-color: red;
+            border-bottom-color: green;
+            border-left-color: yellow;
+            background-color:blanchedalmond;
+        }
+        
+    </style>
+<body>
+<form style="text-align:center">
+<tr>
+<h2>Project Status</h2>
+</tr>
+<br><br>
+<tr>
+Task ID :
+<td><input type="number" name="Id number" size=45% max width=35 ></td>
+</tr>
+<br><br>
+<tr>
+Name :
+<td>
+<input type="text" name="username" size=35% max width=35 >
+</td>
+</tr>
+<br><br>
+<tr>
+Description :
+<td><input type="text" name="project" size=35% max width=30min max ></td>
+</tr>
+<br><br>
+<tr>
+Status :
+<td>
+<input type="radio" name="exe"> Not Started 
+<input type="radio" name="exe"> In Progress
+<input type="radio" name="exe"> Completed
+<input type="radio" name="exe"> Cancel
+</td>
+</tr>
+<br><br>
+<tr>
+Notes :
+<td><input type="text" name="notes"></td>
+</tr>
+<br><br>
+<tr>
+Owner Id :
+<td><input type="number" name="id" ></td>
+</tr>
+<br><br>
+<tr>
+Created Id :
+<td><input type="number" name="id" ></td>
+</tr>
+<br><br>
+<tr>
+Started On:
+<td><input type="Date" name="date" > </td>
+</tr>
+<br><br>
+<tr>
+Ended On :
+<td><input type="Date" name="date" ></td>
+</tr>
+<br><br>
+<tr>
+<td><input type="button" value="Sudmit"></td>
+</tr>
+</form>
+</body>
+</html>

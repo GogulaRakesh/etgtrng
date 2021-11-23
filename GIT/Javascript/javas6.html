@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>Object</title>
+<script> 
+var id=prompt("enter the id");
+var name=prompt("enter the name");
+var date=prompt("enter the date");
+var mobile=prompt("enter the mobile");
+var address=prompt("enter the address");
+var course=prompt("enter the course");
+function emp(id,name,date,mobile,address,course)
+{ 
+this.id=id; 
+this.name=name;
+this.date=date;
+this.mobile=mobile;
+this.address=address; 
+this.course=course;
+this.changeAddress=changeAddress; 
+function changeAddress(otherAddress)
+{ 
+this.address=otherAddress;
+ }
+ } 
+e=new emp(id,name,date,mobile,address,course); 
+document.write(e.id+" "+e.name+" "+e.date+" "+e.mobile+" "+e.address+" "+e.course); 
+e.changeAddress("warangal"); 
+document.write("<br>"+e.id+" "+e.name+" "+e.date+" "+e.mobile+" "+e.address+" "+e.course); 
+</script>
+</head>
+</html>

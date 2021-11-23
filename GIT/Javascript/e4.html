@@ -1,0 +1,23 @@
+<hmtl>
+<head>
+<title>try></title>
+<script>
+function testVariable() {
+ try{
+    if (document.getElementById("textone").value == 1) {
+       throw("error|| enter letter");
+     }
+ }catch (e) { alert("Error: " +e); }
+ var strText= document.getElementById("textone").value;
+ var result = new Array("MCS","EEE","EIE");
+ document.getElementById('spanResult').textContent = result;
+}
+</script> 
+</head>
+<body>
+Strem :
+<input type="text" name="text">
+<button="sudmit"></button>
+</boby>
+</head>
+</html>

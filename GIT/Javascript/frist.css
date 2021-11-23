@@ -1,0 +1,26 @@
+<html>
+<head>
+<title> Css </title>
+<style>
+#h1 {colour:blue}
+#h2 {colour:blue}
+#p1 {colour:red}
+
+p.p2 {colour:red}
+#h3 {colour:blue}
+</head>
+<body>
+<p ID="p1">
+this is my frist program in css 
+</P>
+<p class="p2">
+this is css cls
+</p>
+<p id="h1">
+<h1> this is better then html </h1>
+</p>
+<p id="h2">
+<h2> better styles are there </h2>
+</p>
+</body>
+<html>

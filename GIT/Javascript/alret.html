@@ -1,0 +1,27 @@
+<html>
+<head>
+<title> alert </title>
+<body>
+</head>
+<script>
+function jumpto(x)
+{
+if (document.form1.jumpmenu.value != "null") {
+if (document.form1.jumpmenu.value != "https://www.quackit.com") {
+alert('Good choice!');
+}
+document.location.href = x
+}
+}
+</script>
+<form name="form1">
+<select name="jumpmenu"onChange="jumpto(document.form1.jumpmenu.options[document.form1.jumpmenu.options.selectedIndex].value)">
+<option>Jump to...</option>
+<option value="https://www.quackit.com">Home</option>
+<option value="https://www.quackit.com/html/tutorial/">HTML Tutorial</option>
+<option value="https://www.quackit.com/database/tutorial/">Database Tutorial</option>
+<option value="https://www.quackit.com/mysql/tutorial/">MySQL Tutorial</option>
+</select>
+</form>
+</body>
+</html>
