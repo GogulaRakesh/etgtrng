@@ -1,0 +1,13 @@
+1. List of employees who are consultants along with their department.
+select first_name+' '+last_name as Empolyies,department,worker_title from worker_details,title where worker_title='consultant';
+
+
+2. Display the name of employees having the highest salary in each department.
+
+select first_name+ '  ' +last_name as name_of_the_employe,Worker_Details.DEPARTMENT,salary from Worker_Details
+inner join
+(select DEPARTMENT,max(salary) as maxsalary
+from Worker_Details
+group by DEPARTMENT) MaxSalEmp
+on Worker_Details.department = MaxSalEmp.DEPARTMENT
+and Worker_Details.salary = MaxSalEmp.maxsalary
