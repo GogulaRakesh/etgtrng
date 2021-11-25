@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <link rel="stylesheet" href="study.css">
+  <title>Registration</title>
+  <script type="text/javascript" src="D:\Etg_Training\Case_Study\js_files\registration.js"></script>
+  
+ </head>
+ <body style type="text-align:center">
+ <h1>ENTER YOUR DETAILS</h1>
+ <div class="registration">
+  <form name="myform" action="welcome.html" method="GET" >
+  
+  <label>Name &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</label>
+  <input type = "text" name="name" id="name" pattern="[A-Za-z0-9 ]{1,15}"><br><br>
+  
+  <label>Task ID &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</label>
+  <input type="number" name="taskid" id="taskid" pattern="{1,4}"><br><br>
+
+  <label>Description &nbsp&nbsp&nbsp:</label>
+  <textarea id="description" name="description" rows="4" cols="50"></textarea><br><br>
+
+  <label>Status &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</label>
+  <select name="status" value="status" id="status" required><option>
+  <option value=1 selected="true">SelectOne
+  <option value="Close">Close
+  <option value="In Progress">In Progress
+  <option value="Cancelled">Cancelled
+  <option value="On Hold">On Hold
+  </select><br><br>
+
+  <label>Priority &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</label>
+  <select name="priority" value="priority" id="priority" required><option>
+  <option value=1 selected="true">Select One
+  <option value="1-High">1-High
+  <option value="2-Medium">2-Medium
+  <option value="3-Low">3-Low
+  </select><br><br>
+
+  <label>Notes &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</label>
+  <textarea id="notes" name="notes" rows="4" cols="50"></textarea><br><br>
+
+  <label>Book Mark &nbsp&nbsp&nbsp&nbsp:</label>
+  <textarea id="bookmark" name="bookmark" rows="4" cols="50"></textarea><br><br>
+
+  <label>Owner ID &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</label>
+  <input type="number" name="ownerid" id="ownerid" pattern="{1,4}" ><br><br>
+
+  <label>Creater ID &nbsp&nbsp&nbsp&nbsp&nbsp:</label>
+  <input type="number" name="createrid" id="createrid" pattern="{1,4}" ><br><br>
+
+  <label>Created On &nbsp&nbsp&nbsp&nbsp:</label>
+  <input type="date" id="createdon" name="createdon" ><br><br>
+  
+  <label>Modified On &nbsp&nbsp:</label>
+  <input type="date" id="modifiedon" name="modifiedon"><br><br><br><br>
+
+
+  <center><input type="submit" name="log" id="log" value="Log In Here" onclick="return (validate())"></center> 
+</div>
+</body>
+</html>
