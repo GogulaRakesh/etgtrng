@@ -1,0 +1,68 @@
+C:\Users\gogula.rakesh\MyWebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gogula.rakesh\MyWebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\gogula.rakesh\MyWebApp\bin\Debug\net5.0\MyWebApp.exe
+C:\Users\gogula.rakesh\MyWebApp\bin\Debug\net5.0\MyWebApp.deps.json
+C:\Users\gogula.rakesh\MyWebApp\bin\Debug\net5.0\MyWebApp.runtimeconfig.json
+C:\Users\gogula.rakesh\MyWebApp\bin\Debug\net5.0\MyWebApp.runtimeconfig.dev.json
+C:\Users\gogula.rakesh\MyWebApp\bin\Debug\net5.0\MyWebApp.dll
+C:\Users\gogula.rakesh\MyWebApp\bin\Debug\net5.0\ref\MyWebApp.dll
+C:\Users\gogula.rakesh\MyWebApp\bin\Debug\net5.0\MyWebApp.pdb
+C:\Users\gogula.rakesh\MyWebApp\bin\Debug\net5.0\MyWebApp.Views.dll
+C:\Users\gogula.rakesh\MyWebApp\bin\Debug\net5.0\MyWebApp.Views.pdb
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.csproj.AssemblyReference.cache
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.AssemblyInfoInputs.cache
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.AssemblyInfo.cs
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.csproj.CoreCompileInputs.cache
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.RazorAssemblyInfo.cache
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.RazorAssemblyInfo.cs
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\staticwebassets\MyWebApp.StaticWebAssets.Manifest.cache
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\staticwebassets\MyWebApp.StaticWebAssets.xml
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\scopedcss\bundle\MyWebApp.styles.css
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.TagHelpers.input.cache
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.TagHelpers.output.cache
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.RazorCoreGenerate.cache
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.Views.pdb
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.dll
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\ref\MyWebApp.dll
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.pdb
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.genruntimeconfig.cache
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\MyWebApp.csproj.CopyComplete
+C:\Users\gogula.rakesh\MyWebApp\obj\Debug\net5.0\Razor\Pages\Pizza.cshtml.g.cs
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\MyWebApp.csproj.AssemblyReference.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\MyWebApp.AssemblyInfoInputs.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\MyWebApp.AssemblyInfo.cs
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\MyWebApp.csproj.CoreCompileInputs.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\MyWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\MyWebApp.RazorAssemblyInfo.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\MyWebApp.RazorAssemblyInfo.cs
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\staticwebassets\MyWebApp.StaticWebAssets.Manifest.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\staticwebassets\MyWebApp.StaticWebAssets.xml
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\scopedcss\bundle\MyWebApp.styles.css
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\MyWebApp.TagHelpers.input.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\MyWebApp.TagHelpers.output.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\MyWebApp.RazorCoreGenerate.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\Razor\Pages\Pizza.cshtml.g.cs
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\MyWebApp.RazorTargetAssemblyInfo.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\MyWebApp.RazorTargetAssemblyInfo.cs
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\MyWebApp.dll
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\ref\MyWebApp.dll
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyWebApp\obj\Debug\net5.0\MyWebApp.pdb

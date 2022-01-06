@@ -1,0 +1,12 @@
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyMath\MyMath\bin\Debug\net5.0\MyMath.deps.json
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyMath\MyMath\bin\Debug\net5.0\MyMath.dll
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyMath\MyMath\bin\Debug\net5.0\ref\MyMath.dll
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyMath\MyMath\bin\Debug\net5.0\MyMath.pdb
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyMath\MyMath\obj\Debug\net5.0\MyMath.csproj.AssemblyReference.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyMath\MyMath\obj\Debug\net5.0\MyMath.GeneratedMSBuildEditorConfig.editorconfig
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyMath\MyMath\obj\Debug\net5.0\MyMath.AssemblyInfoInputs.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyMath\MyMath\obj\Debug\net5.0\MyMath.AssemblyInfo.cs
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyMath\MyMath\obj\Debug\net5.0\MyMath.csproj.CoreCompileInputs.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyMath\MyMath\obj\Debug\net5.0\MyMath.dll
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyMath\MyMath\obj\Debug\net5.0\ref\MyMath.dll
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\MyMath\MyMath\obj\Debug\net5.0\MyMath.pdb

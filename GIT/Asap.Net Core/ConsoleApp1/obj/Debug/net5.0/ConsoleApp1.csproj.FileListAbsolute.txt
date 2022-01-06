@@ -1,0 +1,16 @@
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

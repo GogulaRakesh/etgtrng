@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WebApplication120220106115055" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\etgtrng\\GIT\\etgtrng\\GIT\\Asap\.Net\ Core\\WebApplication1\\WebApplication1\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

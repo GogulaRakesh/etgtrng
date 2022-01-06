@@ -1,0 +1,15 @@
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\Bank\Bank\bin\Debug\net5.0\Bank.exe
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\Bank\Bank\bin\Debug\net5.0\Bank.deps.json
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\Bank\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\Bank\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\Bank\Bank\bin\Debug\net5.0\Bank.dll
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\Bank\Bank\bin\Debug\net5.0\ref\Bank.dll
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\Bank\Bank\bin\Debug\net5.0\Bank.pdb
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\Bank\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\Bank\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\Bank\Bank\obj\Debug\net5.0\Bank.dll
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\Bank\Bank\obj\Debug\net5.0\ref\Bank.dll
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\Bank\Bank\obj\Debug\net5.0\Bank.pdb
+E:\etgtrng\GIT\etgtrng\GIT\Asap.Net Core\Bank\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
